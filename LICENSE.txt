@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The GNU License (GNU)
 
 Copyright (c) 2015 Rodney Rehm
 
